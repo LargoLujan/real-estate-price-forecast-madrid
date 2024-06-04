@@ -59,7 +59,7 @@ scikit-learn==0.24.2
 
 ## Contribuyentes
 
-- Desarrollado por [Nombre del Desarrollador]
+- Desarrollado por Manuel Luján
 - Dataset cortesía de MIRBEK TOKTOGAEV
 
 ## Referencias
